@@ -1,5 +1,3 @@
-# names and emails of all of them:
-
 import os
 import time
 from googleapiclient.discovery import build
